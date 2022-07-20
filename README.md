@@ -1,7 +1,7 @@
 # Devops
 ## Bootcamp DevOps
 
-*Este texo está en Italic*
-**Este texo está en Bold**
+*Este texto está en Italic*
+**Este texto está en Bold**
 
 :metal
